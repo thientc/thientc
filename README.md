@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @thientc
+- 👀 I’m interested in programing )
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me: https://github.com/thientc/
